@@ -422,7 +422,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #5f9ce7;
+  color: #3cec0b;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -465,17 +465,17 @@ section {
   color: rgb(74, 233, 50);
   font-size: 28px;
   text-align: center;
-  background: rgba(15, 15, 15, 0.75);
-  transition: 0.4s;
+  background: rgb(0, 0, 0);
+  transition: 0.5s;
   width: 50%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: rgba(253, 253, 253, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #37ed43;
 }
 
 .portfolio .portfolio-wrap:hover::before {
